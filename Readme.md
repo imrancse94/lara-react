@@ -41,6 +41,7 @@ after successfully logging in you will be redirected to dashboard url ``<base-ur
 3. For cookie set ``js-cookie``
 4. For form handling ``react-hook-form``
 5. For API connectivity ``axios``
+6. For validation rule ``yup``
 
 ### Project setup
 
