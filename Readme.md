@@ -1,3 +1,18 @@
+## Usage 
+
+1. After running frontend project go to ``<base-url>/register`` register url like below
+
+![alt text](https://github.com/imrancse94/cybertech/blob/master/register.png?raw=true)
+
+create an user and go to ``<base-url>/register`` login url like below:
+
+![alt text](https://github.com/imrancse94/cybertech/blob/master/login.png?raw=true)
+
+after successfully logging in you will be redirected to dashboard url ``<base-url>/dashboard`` like below:
+
+![alt text](https://github.com/imrancse94/cybertech/blob/master/dashboard.png?raw=true)
+
+
 ## Backend
 
 ### Technologies:
@@ -33,18 +48,4 @@
 2. Rename ``.env.example`` to ``.env`` and enter the ``BASE_URL`` from backend
 3. Run ``npm install``
 4. Run ``npm run dev``
-
-## Usage 
-
-1. After running frontend project go to ``<base-url>/register`` register url like below
-
-![alt text](https://github.com/imrancse94/cybertech/blob/master/register.png?raw=true)
-
-create an user and go to ``<base-url>/register`` login url like below:
-
-![alt text](https://github.com/imrancse94/cybertech/blob/master/login.png?raw=true)
-
-after successfully logging in you will be redirected to dashboard url ``<base-url>/dashboard`` like below:
-
-![alt text](https://github.com/imrancse94/cybertech/blob/master/dashboard.png?raw=true)
 
