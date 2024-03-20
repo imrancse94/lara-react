@@ -18,8 +18,9 @@ after successfully logging in you will be redirected to dashboard url ``<base-ur
 ### Technologies:
 1. Laravel 11
 2. REST API
-3. For Authentication, I have used **JWT** (used this package https://jwt-auth.readthedocs.io/)
-4. access token life time **1 hour** and refresh token life time **24 hour** 
+3. Database ``MySQL``
+4. For Authentication, I have used **JWT** (used this package https://jwt-auth.readthedocs.io/)
+5. access token life time **1 hour** and refresh token life time **24 hour** 
 
 ### Project setup
 1. Clone the project ``git clone https://github.com/imrancse94/cybertech.git``
