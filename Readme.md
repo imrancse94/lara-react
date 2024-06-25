@@ -53,4 +53,4 @@ after successfully logging in you will be redirected to dashboard url ``<base-ur
 3. Run ``npm install``
 4. Run ``npm run dev``
 
-### For Long term support project and Continuous Integration. You can follow this Backend and frontend code pattern. I you have any question, you can send email ``imrancse94@gmail.com``.
+### For Long term support project and Continuous Integration. You can follow this Backend and frontend code pattern. I you have any question, you can send email ``imrancse94@gmail.com``
