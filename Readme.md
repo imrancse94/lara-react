@@ -1,3 +1,5 @@
+## Laravel 11 for REST API and React 18 for frontend
+
 ## Usage 
 
 1. After running frontend project go to ``<base-url>/register`` register url like below
@@ -51,3 +53,4 @@ after successfully logging in you will be redirected to dashboard url ``<base-ur
 3. Run ``npm install``
 4. Run ``npm run dev``
 
+### For Long term support project and Continuous Integration. You can follow this Backend and frontend code pattern. I you have any question, you can send email ``imrancse94@gmail.com``.
