@@ -22,6 +22,9 @@ FROM nginx:alpine
 # Step 8: Copy the build files from the previous stage into the nginx container
 COPY --from=build /app/dist /usr/share/nginx/html
 
+# Copy custom Nginx config into the container
+COPY ./react.conf /etc/nginx/nginx.conf
+
 # Step 9: Expose port 80 to the outside world
 EXPOSE 80
 
